@@ -4,6 +4,6 @@ An increasing sense of anticipation and enthusiasm surrounds quantum computing. 
 
 # References
 
-- [O'Reilly's 'Programming Quantum Computers' code samples and simulator](https://oreilly-qc.github.io/#)
+- [O'Reilly's *Programming Quantum Computers* code samples and simulator](https://oreilly-qc.github.io/#)
 - [Qiskit documentation](https://qiskit.org/)
 - [Qiskit's Shor Implementation](https://qiskit.org/textbook/ch-algorithms/shor.html)
