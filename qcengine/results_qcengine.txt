@@ -1,0 +1,42 @@
+With prime 3:
+Factors of q(15)(14ms): 3,5
+ Factors of q2(45)(1220ms): 3,3,5
+With prime 3:
+Factors of q(21)(69ms): 3,7
+ Factors of q2(63)(1590ms): 3,3,7
+With prime 3:
+Factors of q(25)(4177ms): 5,5
+ Factors of q2(75)(3870ms): 3,5,5
+With prime 3:
+Couldn't factor q(27)
+ Factors of q2(81)(22746ms): 3,3,3,3
+With prime 3:
+Factors of q(33)(7797ms): 11,3
+ Factors of q2(99)(9760ms): 11,3,3
+With prime 3:
+Factors of q(15)(13ms): 3,5
+ Factors of q2(45)(1183ms): 3,3,5
+With prime 3:
+Factors of q(21)(19ms): 3,7
+ Factors of q2(63)(1499ms): 3,3,7
+With prime 3:
+Factors of q(25)(2614ms): 5,5
+ Factors of q2(75)(33029ms): 3,5,5
+With prime 3:
+Couldn't factor q(27)
+ Factors of q2(81)(30651ms): 3,3,3,3
+With prime 3:
+Factors of q(33)(1642ms): 11,3
+ Factors of q2(99)(1936ms): 11,3,3
+With prime 3:
+Factors of q(35)(532ms): 5,7
+ Factors of q2(105)(1810ms): 3,5,7
+With prime 5:
+Factors of q(15)(6ms): 3,5
+ Factors of q2(75)(12633ms): 3,5,5
+With prime 5:
+Factors of q(21)(16ms): 3,7
+ Factors of q2(105)(3688ms): 3,5,7
+With prime 5:
+Factors of q(25)(4351ms): 5,5
+ Couldn't factor q2(125)
