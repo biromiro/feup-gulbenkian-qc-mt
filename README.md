@@ -8,21 +8,21 @@ If you use any part of this work in your research, please cite the corresponding
 
 ```
 @inproceedings{10.1145/3549036.3562062,
-author = {Costa, Nuno and Fernandes, Jo\~{a}o Paulo and Abreu, Rui},
-title = {Asserting the correctness of Shor implementations using metamorphic testing},
-year = {2022},
-isbn = {9781450394581},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3549036.3562062},
-doi = {10.1145/3549036.3562062},
-abstract = {Quantum computing is infused with an increased sense of anticipation and excitement. However, several obstacles need to be overcome before quantum computing can be widely adopted. One of these is determining whether or not a quantum program is behaving according to the expectation. There are several tried-and-true methods for identifying program flaws in the traditional world, but it is far from simple to adapt them to the quantum realm. In this paper, we explore Metamorphic Testing as a promising avenue. We explore this avenue on the well-known Shor's Algorithm, and show how it can be used to verify the validity of this testing approach on quantum algorithms.},
-booktitle = {Proceedings of the 1st International Workshop on Quantum Programming for Software Engineering},
-pages = {32–36},
-numpages = {5},
-keywords = {metamorphic testing, quantum computing, quantum testing},
-location = {Singapore, Singapore},
-series = {QP4SE 2022}
+  author = {Costa, Nuno and Fernandes, Jo\~{a}o Paulo and Abreu, Rui},
+  title = {Asserting the correctness of Shor implementations using metamorphic testing},
+  year = {2022},
+  isbn = {9781450394581},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3549036.3562062},
+  doi = {10.1145/3549036.3562062},
+  abstract = {Quantum computing is infused with an increased sense of anticipation and excitement. However, several obstacles need to be overcome before quantum computing can be widely adopted. One of these is determining whether or not a quantum program is behaving according to the expectation. There are several tried-and-true methods for identifying program flaws in the traditional world, but it is far from simple to adapt them to the quantum realm. In this paper, we explore Metamorphic Testing as a promising avenue. We explore this avenue on the well-known Shor's Algorithm, and show how it can be used to verify the validity of this testing approach on quantum algorithms.},
+  booktitle = {Proceedings of the 1st International Workshop on Quantum Programming for Software Engineering},
+  pages = {32–36},
+  numpages = {5},
+  keywords = {metamorphic testing, quantum computing, quantum testing},
+  location = {Singapore, Singapore},
+  series = {QP4SE 2022}
 }
 ```
 
