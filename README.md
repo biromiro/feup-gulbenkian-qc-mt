@@ -1,5 +1,7 @@
 # Asserting the correctness of Quantum Programs using Metamorphic Testing
 
+Paper: [Asserting the correctness of Shor implementations using metamorphic testing](https://dl.acm.org/doi/abs/10.1145/3549036.3562062)
+
 An increasing sense of anticipation and enthusiasm surrounds quantum computing. However, several obstacles must be overtaken before quantum computing can be widely adopted. One of which is determining whether or not a quantum program is correct. There are several tried-and-true methods for identifying program flaws in the traditional world, but it is far from simple to adapt them to the quantum realm. In this project, we explore why Metamorphic Testing might be a good starting point in this transition and test a simple example on the well-known Shor's Algorithm, verifying the validity of this testing approach on impactful Quantum Algorithms.
 
 ## Citation
